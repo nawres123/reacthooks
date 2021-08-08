@@ -9,6 +9,7 @@ import {Rating} from '@material-ui/lab';
       <div>
     <Navbar className="header" variant="dark">
     <Container>
+      
     <Navbar.Brand href="#home">Movie App</Navbar.Brand>
     <Nav className="me-auto">
       <Nav.Link href="#home">Home</Nav.Link>
